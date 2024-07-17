@@ -52,5 +52,5 @@ Sample Image used:
 ![App Screenshot](images/Sample.png)
 
 Segmented Image:
-![App Screenshot](images/Output.png)
+![App Screenshot](images/output.png)
 
