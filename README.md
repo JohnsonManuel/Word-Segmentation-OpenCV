@@ -54,3 +54,7 @@ Sample Image used:
 Segmented Image:
 ![App Screenshot](images/output.png)
 
+First Five Words
+![App Screenshot](images/FirstFive.png)
+
+
