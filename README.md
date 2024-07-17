@@ -48,6 +48,9 @@ pip install numpy pandas opencv-python matplotlib
 ```
     
 ## Screenshots
+Sample Image used:
+![App Screenshot](images/Sample.png)
 
-![App Screenshot](Sample.png)
+Segmented Image:
+![App Screenshot](images/Output.png)
 
