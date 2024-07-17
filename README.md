@@ -48,13 +48,13 @@ pip install numpy pandas opencv-python matplotlib
 ```
     
 ## Screenshots
-Sample Image used:
+Sample Image used:<br />
 ![App Screenshot](images/Sample.png)
 
-Segmented Image:
+Segmented Image:<br />
 ![App Screenshot](images/output.png)
 
-First Five Words
+First Five Words:<br />
 ![App Screenshot](images/FirstFive.png)
 
 
